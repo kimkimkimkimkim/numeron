@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282136720392",
+    "firebase_url": "https://soreseikai-514f7.firebaseio.com",
+    "project_id": "soreseikai-514f7",
+    "storage_bucket": "soreseikai-514f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282136720392:android:89ca3d8e326dddd33f8dbd",
+        "android_client_info": {
+          "package_name": "com.SANGWOO.numeron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282136720392-7lb6qsa61ptn3for73qrkins20f9dumi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4X28O-kFOD094R1XQPRkkV2y24WH8sfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282136720392-7lb6qsa61ptn3for73qrkins20f9dumi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282136720392-jmo92glm69e6pd0807o3342fj5m4jtjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kimsangwoo.soreseikai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
